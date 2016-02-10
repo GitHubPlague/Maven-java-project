@@ -10,7 +10,7 @@ public class AppTest {
   
   @Test
   public void testPow() {
-    Assert.assertEquals(9, sm.pow(3));
+    Assert.assertEquals(10, sm.pow(3));
   }
   
 }
